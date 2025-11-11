@@ -12,20 +12,34 @@
 
 - Tech Stack
   - Languages
-    - C/C++, Python 
+    <p> 
+      <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Dart-00599C?style=flat-square&logo=dart&logoColor=white"/> 
+    </p>
+
   - Tools & Frameworks
-    - Linux, VSCode
+    <p> 
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-181717?style=flat-square&logo=flutter&logoColor=white"/>
+    </p>
 
 - Projects
   - 전세사기 예방 플랫폼(K-PaaS 공모전)
   - 랜섬웨어 팀프로젝트(Blue)
 
-- Activities & Awards
-  - CTF 보안 대회 지속적 참여 
+- Activities
+  - CTF 보안 대회 지속적 참여
+    
+    [![Dreamhack Badge](https://img.shields.io/badge/Dreamhack-FF6A00?style=flat-square&logoColor=white&link=https://dreamhack.io/@YourID)](https://dreamhack.io/users/81965)
   - K-PaaS 공모전 참여 
   - 교내 과동아리 활동 
   - 2024 알고리즘 대회 본선 참여
-
+    
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bird4002)](https://solved.ac/bird4002/) 
 
 
 - Goals
@@ -41,5 +55,7 @@
 
 
 - Contact
-  - Email: hscho.cyber@gmail.com
-  - GitHub: https://github.com/Jotriever
+
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hscho.cyber@gmail.com)](hscho.cyber@gmail.com)
+  [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Jotriever/Jotriever)](https://github.com/Jotriever/Jotriever)
+  [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@jotreiver/)](https://velog.io/@jotreiver/)
