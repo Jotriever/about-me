@@ -1,6 +1,7 @@
-#### I'm Hyunsu Cho — a Software Engineering Student passionate about Cloud & Security.
+### I'm Hyunsu Cho — a Software Engineering Student passionate about Cloud & Security.
 ---
 ### 👤 About Me & Contact
+⭐ **Hyunsu Cho(2001)**<br>
 🎓 **단국대학교 소프트웨어학과 (2021 ~)** <br>
 
 ✏️ **Summary**<br>
@@ -30,7 +31,7 @@
 | **전세사기 예방 플랫폼 (K-PaaS 공모전)** | 2025.07 ~ 2025.10 | 청년층 대상 전세사기 예방 플랫폼 개발 | 기획 및 프론트엔드 개발 |
 | **CTF 보안 대회 참여** | 2025.07 ~ 현재 | 암호학 분야 문제 풀이 및 팀 협업 | 암호학 담당 |
 
-### 🛡️ 랜섬웨어 분석 및 대응 시스템 (Blue) (2025.10 ~ 현재)
+### 🛡️ [랜섬웨어 분석 및 대응 시스템 (Blue) (2025.10 ~ 현재)](https://github.com/system-security-0x/ransonware-battle)
 
 - **프로젝트 개요**: Linux의 FUSE(Filesystem in Userspace)를 활용하여 파일 시스템 레벨에서 랜섬웨어의 악성 행위를 탐지하고 로깅하는 방어 시스템을 개발했습니다.
 - **담당 역할**: 공격 테스터 및 탐지 로직 개발
@@ -43,7 +44,7 @@
     - 파일 I/O 횟수 및 엔트로피 변화라는 두 가지 핵심 지표를 기반으로 랜섬웨어의 주요 행위를 탐지/로깅하는 시스템의 PoC(Proof of Concept)를 완성했습니다.
     - 공격 시뮬레이터 제작을 통해 방어 시스템의 탐지 로직을 반복적으로 검증하고 예외 케이스를 보완할 수 있는 테스트 환경을 구축했습니다.
 
-### 🏆 전세사기 예방 플랫폼 (K-PaaS 공모전) (2025.07 ~ 2025.10)
+### 🏆 [전세사기 예방 플랫폼 (K-PaaS 공모전) (2025.07 ~ 2025.10)](https://github.com/Jeonggeonyong/voyage)
 
 - **프로젝트 개요**: K-PaaS 클라우드 환경 위에서 청년층 대상 전세사기 예방 SaaS 플랫폼을 기획부터 배포까지 진행한 공모전 프로젝트입니다.
 - **담당 역할**: Product Manager (애자일) 및 클라이언트 개발 총괄
@@ -56,7 +57,7 @@
   - 5인 팀의 PM 역할을 수행하며 3개월의 짧은 기간 내 성공적인 프로토타입 배포를 완료했습니다.
   - 클라우드 네이티브 개발 프로세스 전체(기획-MSA설계-CI/CD설계-개발)를 주도했습니다.
 
-### 🚩 CTF 보안 대회 참여 (Crypto) (2025.07 ~ 현재)
+### 🚩 [CTF 보안 대회 참여 (Crypto) (2025.07 ~ 현재)](https://velog.io/@jotreiver/)
 
 - **활동 개요**: 다양한 국내외 CTF(Capture The Flag) 보안 대회에 팀원으로 참여, 특히 암호학(Cryptography) 분야를 전담하여 문제 해결 및 이론 학습을 병행하고 있습니다.
 - **담당 역할**: 암호학(Cryptography) 문제 해결 담당
